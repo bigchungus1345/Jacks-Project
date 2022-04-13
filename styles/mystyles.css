@@ -1,0 +1,36 @@
+p{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1{
+    color: rgb(57, 176, 212);
+    text-decoration: underline;
+}
+
+.li{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: 200;  
+}
+
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.column {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-top: 25px;
+  }
+.anchor{
+    color: black;
+}
+.resume{
+    text-decoration: underline;
+    text-align: center;
+}
